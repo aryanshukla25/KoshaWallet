@@ -1,6 +1,6 @@
 # KoshaWallet
 
-KoshaWallet is a modern budget tracking application designed to help users efficiently manage their expenses. Built with React, Redux Toolkit, Mantine, and Firebase, KoshaWallet offers a user-friendly and secure platform for monitoring and controlling personal finances.
+KoshaWallet is a modern expense management application designed to help users efficiently manage their expenses. Built with React, Redux Toolkit, Mantine, and Firebase, KoshaWallet offers a user-friendly and secure platform for monitoring and controlling personal finances.
 
 ## Key Features
 
